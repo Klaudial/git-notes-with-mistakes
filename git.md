@@ -8,7 +8,7 @@ Introduction
 These notes constitute a brief summary of the `git` version control tool.
 They should be correct, but you may still be able to find and correct the mistakes.
 
-You will be judged, however, not on finding all the mistakes, but on my use of version control
+I will be judged, however, not on finding all the mistakes, but on my use of version control
 in doing the work of fixing them!
 
 Finding the mistakes has been a useful revision, though :)
