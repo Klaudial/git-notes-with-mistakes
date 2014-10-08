@@ -76,14 +76,14 @@ View list of recent commits in a more compact fashion
 git log --oneline
 ```
 
-Transmit commit to github
+Transmit commit to remote repository
 ====================================
 
 ```
 git push
 ```
 
-Fetch commit from github
+Fetch commit from remote repository
 ===================================
 
 ```
