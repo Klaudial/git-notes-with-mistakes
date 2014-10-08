@@ -20,7 +20,7 @@ To turn on the version control system, use:
 
 ``` bash
 cd my_work_folder
-git begin
+git init
 ```
 
 Tell Git about a new file
@@ -28,7 +28,7 @@ Tell Git about a new file
 
 ```
 vim my_file # Edit file
-git include my_file
+git add my_file
 ```
 
 Include changes in a file into the next work chunk 
@@ -66,19 +66,19 @@ View list of recent chunks
 ==========================
 
 ```
-git journal
+git log
 ```
 
 Transmit chunks to remote chunkstore
 ====================================
 
 ```
-git transmit
+git push
 ```
 
 Fetch chunks from remote chunkstore
 ===================================
 
 ```
-git download
+git pull
 ```
