@@ -1,17 +1,17 @@
 ﻿---
-title: Fake Wrong Git Notes
+title: Real True Git Notes
 ---
 
 Introduction
 ============
 
 These notes constitute a brief summary of the `git` version control tool.
-They are incorrect, and it is your task to find and correct the mistakes.
+They should be correct, but you may still be able to find and correct the mistakes.
 
-You are judged, however, not on finding all the mistakes, but on your use of version control
+You will be judged, however, not on finding all the mistakes, but on my use of version control
 in doing the work of fixing them!
 
-Finding the mistakes will be a useful revision, though.
+Finding the mistakes has been a useful revision, though :)
 
 Activating Git
 ==============
