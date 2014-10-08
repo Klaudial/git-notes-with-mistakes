@@ -69,6 +69,13 @@ View list of recent commits
 git log
 ```
 
+View list of recent commits in a more compact fashion
+==========================
+
+```
+git log --oneline
+```
+
 Transmit commit to github
 ====================================
 
