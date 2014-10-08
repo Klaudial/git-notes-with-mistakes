@@ -69,14 +69,14 @@ View list of recent commits
 git log
 ```
 
-Transmit commit to remote chunkstore
+Transmit commit to github
 ====================================
 
 ```
 git push
 ```
 
-Fetch commit from remote chunkstore
+Fetch commit from github
 ===================================
 
 ```
